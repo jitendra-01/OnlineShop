@@ -1,0 +1,9 @@
+ 1 Apples 8 100
+
+ 2 Bread 15 35
+
+ 3 Juice 35 38
+
+ 4 Cheese 20 28
+
+
